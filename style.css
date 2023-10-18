@@ -1,0 +1,58 @@
+.heronames{
+font-size: 20px;
+}
+.score{
+    font-size: 20px;
+
+}
+.heroes{
+    border: 1px solid black;
+    width: 140px;
+    text-align: center;
+    box-shadow: 3px 2px 3px black
+}
+.wars{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr);
+    gap: 5px;
+    width: 500px;
+}
+.villans{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr);
+    gap: 5px;
+    width: 500px;
+}
+.villans1{
+    border: 1px solid black;
+    width: 140px;
+    text-align: center;
+    box-shadow: 3px 2px 3px black
+}
+.villannames{
+    font-size: 20px;
+ 
+}
+.villanscore{
+    font-size: 20px;
+}
+h1{
+    font-size:70px
+}
+.game{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.scores{
+    border: 1px solid none;
+    width: 350px;
+    text-align: center;
+    height: 200px;
+}  
+img{
+    width: 70px;
+    margin-top: 5px;
+} 
+    
